@@ -57,6 +57,7 @@
 - https://www.youtube.com/watch?v=cKxRvEZd3Mw
 
 ### Practical Challenges: 
+- https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
 - https://www.kaggle.com/c/titanic
 - https://www.kaggle.com/c/digit-recognizer
 - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
