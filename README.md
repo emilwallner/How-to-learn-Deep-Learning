@@ -60,6 +60,7 @@
 - https://www.kaggle.com/c/titanic
 - https://www.kaggle.com/c/digit-recognizer
 - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- https://www.kaggle.com/c/word2vec-nlp-tutorial
 - https://openai.com/requests-for-research/#cartpole
 - https://openai.com/requests-for-research/#funnybot
 - https://openai.com/requests-for-research/#im2latex
