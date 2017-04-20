@@ -13,8 +13,7 @@
  - https://news.ycombinator.com/item?id=9902524
  - https://metalmanac.com/topics/machinelearning/
  - https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/
-
-http://www.erogol.com/machine-learning-pathway/
+ - http://www.erogol.com/machine-learning-pathway/
 
 ### References
 - http://www.deeplearningbook.org/
