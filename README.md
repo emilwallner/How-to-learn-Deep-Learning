@@ -41,15 +41,12 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 
 ### More MOOCs
 - https://www.coursera.org/learn/probabilistic-graphical-models
-- https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0
 - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 - https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
-- https://www.coursera.org/learn/machine-learning 
 - https://www.udacity.com/course/cs373 AI for Robotics
 - https://www.udemy.com/machinelearning/
 - https://www.udacity.com/course/intro-to-statistics--st101
 - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
-- https://www.coursera.org/course/ml Machine Learning
 - https://www.coursera.org/course/neuralnets Neural Networks for Machine Learning
 - https://www.coursera.org/course/nlangp Natural Language Processing
 - https://www.coursera.org/course/aiplan AI Planning
