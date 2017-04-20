@@ -33,13 +33,13 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 ### Python 101: 
 - https://www.codecademy.com/learn/python
 
-### >20K Student MOOCs
+### Popular MOOCs
 - https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0
 - https://www.coursera.org/learn/machine-learning 
-- https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/
+- http://course.fast.ai/
+- https://www.udacity.com/course/intro-to-machine-learning--ud120
 
 ### More MOOCs
-- http://course.fast.ai/
 - https://www.coursera.org/learn/probabilistic-graphical-models
 - https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0
 - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
@@ -54,6 +54,7 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 - https://www.coursera.org/course/nlangp Natural Language Processing
 - https://www.coursera.org/course/aiplan AI Planning
 - https://www.coursera.org/course/compneuro Computational Neuroscience
+- https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/
 - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 
 ### Curriculum
@@ -66,6 +67,14 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 ### AI Hello World 
 - https://www.youtube.com/watch?v=cKxRvEZd3Mw
 
+### Scikit Learn
+- http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/
+- https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+- https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+### Tensorflow
+- https://github.com/jtoy/awesome-tensorflow
+
 ### Practical Challenges: 
 - https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
 - https://www.kaggle.com/c/titanic
@@ -76,9 +85,8 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 - https://openai.com/requests-for-research/#funnybot
 - https://openai.com/requests-for-research/#im2latex
 
-### Curated AI lists
+### Curated AI learning lists
 - https://github.com/ChristosChristofidis/awesome-deep-learning
 - https://www.reddit.com/r/MachineLearning/wiki/index
 - https://github.com/josephmisiti/awesome-machine-learning
-- https://github.com/jtoy/awesome-tensorflow
 - http://jmozah.github.io/links/
