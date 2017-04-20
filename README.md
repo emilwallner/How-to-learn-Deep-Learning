@@ -1,5 +1,6 @@
 ### AI 101s:
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+- https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 - https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0
 - http://a16z.com/2016/06/10/ai-deep-learning-machines/
