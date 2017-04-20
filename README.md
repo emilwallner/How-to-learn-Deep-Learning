@@ -2,7 +2,7 @@
 
 I'll take a practical, top-down approach, starting with high-level frameworks. I'll work on increasingly difficult problems, beginning with test problems with clean datasets and the move towards real-world problems. When I come across harder problems I'll consult ML friends. While solving problems, I'll try the most recommended MOOCs to fill knowledge gaps. I'll create a study group at School 42 to stay motivated. 
 
-I'll start by learning the basic [Python syntax with Codeacademy](https://www.codecademy.com/learn/python) and this youtube series to learn [Scikit learn](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3). I'll start with the beginner [problems on Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), then do real world problems on their platform and then do a few request for [research projects on OpenAI](https://openai.com/requests-for-research/#im2latex). While doing real problems, I'll try [Udacity's intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120), [Fast AI's course](http://course.fast.ai/index.html), [Colombia's course](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0), and [Stanford's course.](https://www.coursera.org/learn/machine-learning)
+I'll start by learning the basic [Python syntax with Codeacademy](https://www.codecademy.com/learn/python) and [Google's Hello World](https://www.youtube.com/watch?v=cKxRvEZd3Mw) and youtube series to learn [Scikit learn](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3). I'll start with the beginner [problems on Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), then do real world problems on their platform and then do a few request for [research projects on OpenAI](https://openai.com/requests-for-research/#im2latex). While doing real problems, I'll try [Udacity's intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120), [Fast AI's course](http://course.fast.ai/index.html), [Colombia's course](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0), and [Stanford's course.](https://www.coursera.org/learn/machine-learning)
 
 
 This approach is inspired by [this medium article](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) and [this quora post.](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
@@ -64,7 +64,7 @@ This approach is inspired by [this medium article](https://medium.com/learning-n
 ### Books 
 - https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/
 
-### AI Hello World 
+### Machine Learning Hello World 
 - https://www.youtube.com/watch?v=cKxRvEZd3Mw
 
 ### Scikit Learn
