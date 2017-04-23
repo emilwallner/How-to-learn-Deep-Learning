@@ -1,9 +1,8 @@
 1. Make sure your brew works, this worked for me: https://github.com/kube/42homebrew
 2. brew install python3
-3. pip3 install tensorflow --user
 4. pip3 install scipy --user
 5. pip3 install scikit-learn --user
-6. Create a document, hello-world.py, and include import sklearn and 
-import tensorflow. 
+6. Create a document, hello-world.py, and include import sklearn
 7. python3 hello-world.py (if you don't get any errors, it's working)
-8. Try the frameworks: https://www.youtube.com/watch?v=cKxRvEZd3Mw
+8. Installing Tensorflow: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+9. Try the frameworks: https://www.youtube.com/watch?v=cKxRvEZd3Mw
