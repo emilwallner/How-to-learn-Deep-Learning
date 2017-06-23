@@ -14,8 +14,7 @@ This was orignally made by: https://github.com/YuelongGuo/floydhub.fast.ai . I'v
 
 First, you'll need a floydhub account and have the floyd CLI installed. Follow their online instruction at https://www.floydhub.com/welcome. 
 
-## Set up necessary files for lesson one
-
+## Running your first Deep learning model
 <pre><code>
 git clone https://github.com/emilwallner/How-to-learn-AI.git
 cd fastai_first_lesson/
@@ -23,10 +22,11 @@ cd fastai_first_lesson/
 
 ## Start a floydnet instance
 
-We will use Floyd CLI to initiate a cloud instance. Initiation:
+We will use Floyd CLI to initiate a cloud instance. Use floyd init followed by a name for your experiment:
 
 <pre><code>
-floyd init [a name for your experiment]
+floyd init dogscats
+floyd run --mode jupyter --data yz3A8G5vX5ZQxv5VVyD3GH --env theano:py2 --gpu
 </code></pre>
 
 To start a GPU instance with Jupyter notebook that is compatable to lesson 1 scripts, you need to specify the following parameters:
@@ -51,28 +51,9 @@ Now lesson 1 should run with the sample dataset.
 
 ####
 
-Now, we are ready to unzip the data on floydnet.
-Again, start with an empty directory.
-
-<pre><code>
-cd ~/Projects/
-mkdir floydhub.fast.ai.data.unzip
-cd floydhub.fast.ai.data.unzip
-floyd init dogscats.unzip
-floyd run --gpu --data UMSaLZVseGPSsPCbYkZFZA "unzip /input/dogscats.zip -d /output"
-</code></pre>
-
-Please note:
-1. the data ID should be the one you see from the above step
-2. the mounted data is available in /input/ directory, and you need to direct the unzipped files to /output/ directory
-
-After this finishes, which took about 20 mins for me, you'll see in your floydhub UI interface, under "Data" section, a dataset userID/dogscats.unzip:1/output. On the right side, click View -> Advanced -> under Id, keep a record of your data Id. Mine is yz3A8G5vX5ZQxv5VVyD3GH
-
 Now, we are ready to create the actual floydnet workspace to start learning fast.ai!
 Assuming you have cloned this repo following the method running sample dataset.
 <pre><code>
-cd ~/Projects/floydhub.fast.ai/
-rm -r data
 floyd init dogscats
 floyd run \
   --mode jupyter \
