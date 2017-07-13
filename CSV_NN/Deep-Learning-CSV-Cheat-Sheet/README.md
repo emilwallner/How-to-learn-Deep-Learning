@@ -33,6 +33,12 @@ A deep learning cheat sheet with Jupyter notebook examples
 - Usage example: 
 - Full example:
 
+### Cut / Delete Rows based on condition
+
+- Documentation: 
+- Usage example: [survive = df.drop(df[(df.Pclass > 1) | (df.Sex == 1) ].index)](http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.drop.html)
+- Full example:
+
 ### Labels / Truth / What to predict 
 
 Labels are the truth in a deep learning model. If you want to predict if someone survived the Titanic with a CSV with 10 columns, such as name, ticket price, age etc. Then, the column that indicates if they survived is the label column. In this case, it is 0 if they died and 1 if they survived. [See this example on Quora.](https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science)
