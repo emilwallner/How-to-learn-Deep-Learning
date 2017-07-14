@@ -27,6 +27,12 @@ A deep learning cheat sheet with Jupyter notebook examples
 - Usage example: 
 - Full example:
 
+### Create new column and copy data
+
+- Documentation: 
+- Usage example: [end['Survival_chance'] = pred](http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.drop.html)
+- Full example: end['Survival_chance'] = pred
+
 ### Missing Values / Empty cells
 
 - Documentation: [df["Age"].fillna(df["Age"].mean(), inplace=True)], axis=1)](http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.drop.html)
@@ -55,6 +61,12 @@ In Pandas you can use the data.get_dummies() function to turn numerical categori
 
 - Documentation: np.nan
 - Usage example: [df.replace(['S', 'C', 'Q', np.nan], [1, 2, 3, 0], inplace=True) ](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
+- Full example:
+
+### Convert pandas dataframe to array
+
+- Documentation: np.nan
+- Usage example: [labels = np.array(labels, dtype=np.float32)](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
 - Full example:
 
 ## Seaborn as np
