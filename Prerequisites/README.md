@@ -24,13 +24,14 @@
   
 ## Installs (Mac)
 
- **Open your terminal and use the below commands.**
-  ```shell 
-  Install Brew
-  ```
+ Open your terminal and use the below commands.
 
+  **Install Brew**
+  
+  ```shell 
   /usr/bin/ruby -e "$(curl -fsSL
   https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  ```
 
   **Python 3**
 
