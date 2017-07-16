@@ -1,18 +1,15 @@
-### My Approach 
+# Prerequisites
 
 
-Command line (10 concepts)
+## Command line (10 concepts)
 
   You have to install a lot of libraries when working with DL and you also need
   to run your code from a remote server. This makes fluency with the command line
   a prerequisite.
 
   - Take this free 3–5h command line course on Codecademy.
-Python and Jupyter Notebook (30 concepts)
-
-  Python is the most common language for deep learning and Jupyter has become
+  - Python and Jupyter Notebook (30 concepts). Python is the most common language for deep learning and Jupyter has become
   a standard to visualize your data.
-
   - Take this free course on python using Codecademy. It takes 1–2 days to
   complete.
   - Here is a 30 minute introduction to Jupyter. Install it and play around
@@ -20,8 +17,9 @@ Python and Jupyter Notebook (30 concepts)
 
   You are good to go. Let’s start applying deep learning.
 
-  ----------
-Installs (Mac)
+  ---
+  
+## Installs (Mac)
 
   Open your terminal and use the below commands.
   Install Brew
@@ -36,8 +34,10 @@ Installs (Mac)
   Jupyter notebook, TFlearn & Numpy
 
   pip3 install jupyter tensorflow tflearn numpy pandas floyd-cli
+  
+---
 
-### AI 101s:
+## AI 101s:
   - http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
   - https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850
   - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
