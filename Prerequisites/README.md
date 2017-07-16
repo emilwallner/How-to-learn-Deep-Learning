@@ -8,7 +8,10 @@
   a prerequisite.
 
   - Take this free 3–5h command line course on Codecademy.
-  - Python and Jupyter Notebook (30 concepts). Python is the most common language for deep learning and Jupyter has become
+  
+ ## Python and Jupyter Notebook (30 concepts). 
+ 
+ - Python is the most common language for deep learning and Jupyter has become
   a standard to visualize your data.
   - Take this free course on python using Codecademy. It takes 1–2 days to
   complete.
@@ -21,19 +24,25 @@
   
 ## Installs (Mac)
 
-  Open your terminal and use the below commands.
+ **Open your terminal and use the below commands.**
+  ```shell 
   Install Brew
+  ```
 
   /usr/bin/ruby -e "$(curl -fsSL
   https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-  Python 3
+  **Python 3**
 
+  ```shell
   brew install python3
+  ```
 
-  Jupyter notebook, TFlearn & Numpy
+  **Jupyter notebook, TFlearn & Numpy**
 
+  ```shell
   pip3 install jupyter tensorflow tflearn numpy pandas floyd-cli
+  ```
   
 ---
 
