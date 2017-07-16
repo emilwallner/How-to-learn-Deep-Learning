@@ -18,7 +18,6 @@
   - Here is a 30 minute introduction to Jupyter. Install it and play around
   with it.
 
-  You are good to go. Let’s start applying deep learning.
 
   ---
   
