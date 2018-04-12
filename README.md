@@ -1,11 +1,34 @@
-### My Approach 
+## The Basics
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning.
+- Spend a week on codecademy.com and learn the python syntax, command line and git. 
+- Spend 1-2 weeks using Pandas and Scikit-learn on Kaggle problems using Jupyter Notebook. This gives you an overview of the machine learning mindset and workflow. 
+- Spend 1-month implementing Keras models on cloud GPUs. This gives you a sense of the deep learning mindset and workflow. Start with [keras' examples.](https://github.com/keras-team/keras/tree/master/examples)
+- Spend 1 month recoding the core concepts in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron and a vanilla neural network.
 
-I'll take a practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. I'll start with csv files, then work with images, text, sound, videos and then games. I'll work on increasingly difficult problems, beginning with test problems with clean datasets and the move towards real-world problems. 
+## Reproduce papers
+By reproducing papers you get a feel for doing actual work in deep learning. I'd recommend reproducing a paper or building a project in the following four areas: CNN, LSTM, GAN, and reinforcement learning(or neuroevolution or neural programming).  For the first three areas reimplement [student papers.](http://cs231n.stanford.edu/reports.html) I'd recommend using Keras and reimplementing it from scratch.
 
-I started with Andrew Ng’s Course, but I lost motivation after three weeks. I didn’t have the desire to learn an new programming language which is not considered the standard, learn linear algebra, and combining it with machine learning notions.
+Tips:
+- Spend the first week reimplementing the core algorithm in python numpy.
+- Don't follow a step by step tutorial or MOOC. Instead, spend a few days scanning every MOOC and tutorial on the topic. This gives you an index of resources you can later dig deeper in. If you follow a step by step guide, you end up copy-pasting instead of learning anything.
+- GPU access is key. My favorite GPU cloud provider is Floydhub. It's hands down the best option. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. Another good bet is Google's startup program through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing) or apply via AIgrant.
+- It takes 1-2 months to reproduce a student paper if you work full-time. It takes about 3 weeks to get clarity of the core concepts in each paper. 
+- It's very cognitive demanding to learn deep learning. To feel a sense of progress, I'd recommend [scheduling everything you do.](https://twitter.com/EmilWallner/status/955684571202359297) Also, have a Pomodoro timer and [block all news/notifications/social media.](https://twitter.com/EmilWallner/status/948200877680201729)
+- You don't need mentors. Having gone through a teaching-heavy education system, we often underestimate our capacity to learn by ourselves. Most Q&A/forums will offer little help in solving your bugs. The best option is to document the problem you are facing in detail, then research all the unknowns. I'd also suggest reaching out to the author of the paper you are reproducing. Again, if you reproduce student papers they are often happy to answer clarifying questions.
 
-My next stop was Kaggle campion Jeremy Howard’s fast AI course. A practical deep learning course starting with high level concepts. This has become a rough roadmap for me, but I was overwhelmed by the all the concepts they packed in each lesson. I grew an increased familiarity with the concepts, but I couldn’t apply it from scratch. 
+## Write-up of my process
+- [Implementing Keras models (I started with TFlearn, but I'd highly recommend using Keras instead)](https://blog.floydhub.com/my-first-weekend-of-deep-learning/)
+- [Recoding the core concepts in python](https://blog.floydhub.com/coding-the-history-of-deep-learning/)
+- [My first paper using CNN](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
+- [My first paper using LSTM](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+- My first paper using GAN(in progress)
+- My first paper using RL/evolution(in progress)
+- [On going via my twitter feed](https://twitter.com/EmilWallner)
 
-I realized tutorials are great at explaining concepts and for installing software, but they are not ideal to learn from. They are often created with the mindset of teaching you something. Instead of focusing on explanations this tutorial cuts out what is necessary for you to start learning. At heart, it’s just a few starting blocks and a curation of playgrounds to get your hands dirty. 
+## Other good learning strategies:
+- [Per Harald Borgen](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c)
+- [Greg Brockman](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
+- [Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [Amid Fish](http://amid.fish/reproducing-deep-rl)
 
-This approach is inspired by [this medium article](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) and [this quora post.](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
+If you have suggestions/questions create an issue or [ping me on Twitter.](https://twitter.com/EmilWallner)
