@@ -8,6 +8,12 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 ## Reproduce papers
 By reproducing papers you get a feel for doing actual work in deep learning. I'd recommend reproducing a paper or building a project in the following four areas: CNN, LSTM, GAN, and reinforcement learning(or neuroevolution or neural programming).  For the first three areas reimplement [student papers.](http://cs231n.stanford.edu/reports.html) I'd recommend using Keras and reimplementing it from scratch.
 
+The best way to get a feel for the most interesting ideas in Machine Learning is Twitter and [Arxiv-sanity](http://www.arxiv-sanity.com/). Here is my full list of people I [follow on Twitter](https://twitter.com/following). These are my favorites: [ilyasut](https://twitter.com/ilyasut), [josephreisinger](https://twitter.com/josephreisinger), [math_rachel](https://twitter.com/math_rachel), [mustafasuleymn](https://twitter.com/mustafasuleymn), [catherineols](https://twitter.com/catherineols), [dennybritz](https://twitter.com/dennybritz), [ylecun](https://twitter.com/ylecun), [jtoy](https://twitter.com/jtoy), [_brohrer_](https://twitter.com/_brohrer_), [tkasasagi](https://twitter.com/tkasasagi), [jeremyjkun](https://twitter.com/jeremyjkun), [jeffclune](https://twitter.com/jeffclune), [danielgross](https://twitter.com/danielgross), [karoly_zsolnai](https://twitter.com/karoly_zsolnai), [mortendahlcs](https://twitter.com/mortendahlcs), [Reza_Zadeh](https://twitter.com/Reza_Zadeh), [goodfellow_ian](https://twitter.com/goodfellow_ian), [fchollet](https://twitter.com/fchollet), [michael_nielsen](https://twitter.com/michael_nielsen), [iamtrask](https://twitter.com/iamtrask), [jeremyphoward](https://twitter.com/jeremyphoward), [jackclarkSF](https://twitter.com/jackclarkSF), [ch402](https://twitter.com/ch402), [distillpub](https://twitter.com/distillpub)
+
+## Forums
+- [FastAI](http://forums.fast.ai/)
+- [Keras Slack](https://keras-slack-autojoin.herokuapp.com/)
+
 Tips:
 - Spend the first week reimplementing the core algorithm in python numpy.
 - Don't follow a step by step tutorial or MOOC. Instead, spend a few days scanning every MOOC and tutorial on the topic. This gives you an index of resources you can later dig deeper in. If you follow a step by step guide, you end up copy-pasting instead of learning anything.
