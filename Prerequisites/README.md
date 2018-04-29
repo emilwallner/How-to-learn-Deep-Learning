@@ -57,6 +57,7 @@
 
 ### How to learn AI posts: 
   - https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer
+  - https://hackr.io/tutorials/learn-artificial-intelligence-ai
   - https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
   - https://medium.com/@thisismetis/roadmap-how-to-learn-machine-learning-in-6-months-7c501889b545
   - https://news.ycombinator.com/item?id=9902524
@@ -125,3 +126,4 @@
   - https://www.reddit.com/r/MachineLearning/wiki/index
   - https://github.com/josephmisiti/awesome-machine-learning
   - http://jmozah.github.io/links/
+  - https://hackr.io/tutorials/learn-artificial-intelligence-ai
