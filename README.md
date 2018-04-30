@@ -14,11 +14,11 @@ The best way to get a feel for the most interesting ideas in Machine Learning is
 - [FastAI](http://forums.fast.ai/)
 - [Keras Slack](https://keras-slack-autojoin.herokuapp.com/)
 
-Tips:
-- Spend the first week reimplementing the core algorithm in python numpy.
+Tips for reproducing papers:
+- It takes 1-2 months to reproduce a student paper if you work full-time. It takes about 3 weeks to get clarity of the core concepts in each paper. 
+- Spend the first week reimplementing the core algorithm in python numpy, say an RNN, neural network or CNN.
 - Don't follow a step by step tutorial or MOOC. Instead, spend a few days scanning every MOOC and tutorial on the topic. This gives you an index of resources you can later dig deeper in. If you follow a step by step guide, you end up copy-pasting instead of learning anything.
 - GPU access is key. My favorite GPU cloud provider is Floydhub. It's hands down the best option. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. Another good bet is Google's startup program through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing) or apply via AIgrant.
-- It takes 1-2 months to reproduce a student paper if you work full-time. It takes about 3 weeks to get clarity of the core concepts in each paper. 
 - It's very cognitive demanding to learn deep learning. To feel a sense of progress, I'd recommend [scheduling everything you do.](https://twitter.com/EmilWallner/status/955684571202359297) Also, have a Pomodoro timer and [block all news/notifications/social media.](https://twitter.com/EmilWallner/status/948200877680201729)
 - You don't need mentors. Having gone through a teaching-heavy education system, we often underestimate our capacity to learn by ourselves. Most Q&A/forums will offer little help in solving your bugs. The best option is to document the problem you are facing in detail, then research all the unknowns. I'd also suggest reaching out to the author of the paper you are reproducing. Again, if you reproduce student papers they are often happy to answer clarifying questions.
 
