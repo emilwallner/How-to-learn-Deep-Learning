@@ -1,5 +1,5 @@
 ## Approach
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To pass interviews at top-tier research firms and invent new deep learning algorithms, also check the theory section. 
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To [pass interviews](https://twitter.com/EmilWallner/status/1078972677874946049) at top-tier research firms and invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
 
 ## Practical
 **Note:** You don't need a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language).
@@ -35,8 +35,8 @@ I'd recommend starting with the practical approach, then you'll be familiar with
 
 I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
 - I normally spend 6 hours reading 5 - 20 pages and finding YouTube tutorials to understand every concept. This includes doing exercises on Khan Academy and redoing derivations from lectures on Youtube.
-- Then I spend 2 - 3 hours creating Anki cards. I have one deck for questions I can rehearse on the go, and another for exercises I need pen and paper for. 
-- I spend another an hour reviewing previous Anki cards and exercises.
+- Then I spend 2 - 3 hours creating Anki cards. I have one deck for questions I can rehearse on the go, and another for exercises I need a pen and paper for. 
+- I spend another hour reviewing previous Anki cards and exercises.
 
 I set aside three months to study the Deep Learning Book fulltime. The book is 700 pages, so aim to ankify 10 - 15 pages per day. The first few chapters are denser, so I began with 5 pages a day and gradually got closer to 15 pages. 
 
@@ -62,5 +62,7 @@ But the best option is to create a deep learning startup and apply for cloud cre
 - [Greg Brockman](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
 - [Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [Amid Fish](http://amid.fish/reproducing-deep-rl)
+- [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
+- [Confession as an AI researcher](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
 
 If you have suggestions/questions create an issue or [ping me on Twitter.](https://twitter.com/EmilWallner)
