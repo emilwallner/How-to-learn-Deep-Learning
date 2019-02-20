@@ -1,10 +1,11 @@
-## The Basics
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. 
+## Approach
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To pass interviews at top-tier research firms and invent new deep learning algorithms, also check the theory section. 
 
+## Practical
 **Note:** You don't need a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language).
 - Spend a week on codecademy.com and learn the python syntax, command line and git. 
 - Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk&t=375s), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
-- Spend one month implementing Keras or Pytorch models on cloud GPUs. I'd start with Keras if you want to build a startup and Pytorch if you aim to do research. This gives you a sense of the deep learning mindset and workflow. Start with [these Keras models](https://github.com/keras-team/keras/tree/master/examples) or the [official Pytorch tutorials](https://pytorch.org/tutorials/). Also, check [the resources from FastAI.](http://course.fast.ai/)
+- Spend one month implementing Keras/Tensorflow or Pytorch models on cloud GPUs. Most beginners tend to start with Keras with a Tenorflow-backend or Pytorch using the FastAI library. Start with [these Keras models](https://github.com/keras-team/keras/tree/master/examples) or the [official Pytorch tutorials](https://pytorch.org/tutorials/). Also, check [the resources from FastAI.](http://course.fast.ai/)
 - Spend one month recoding the core concepts in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. 
 
 ## Reproduce papers
@@ -29,8 +30,23 @@ The best way to get a feel for the most interesting ideas in Machine Learning is
 - It's very cognitive demanding to learn deep learning. To feel a sense of progress, I'd recommend [scheduling everything you do.](https://twitter.com/EmilWallner/status/955684571202359297) Also, have a Pomodoro timer and [block all news/notifications/social media.](https://twitter.com/EmilWallner/status/948200877680201729)
 - Most Q&A/forums will offer little help in solving your bugs. The best option is to document the problem you are facing in detail, then research all the unknowns. It often helps if you refactor your code and make small tests to try different assumptions about your model. I'd also suggest reaching out to the author of the paper you are reproducing. Again, if you reproduce student papers they are often happy to answer clarifying questions.
 
+## Theory
+I'd recommend starting with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I'm using the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
+
+I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
+- I normally spend 6 hours reading 5 - 20 pages and finding YouTube tutorials to understand every concept. This includes doing exercises on Khan Academy and redoing derivations from lectures on Youtube.
+- Then I spend 2 - 3 hours creating Anki cards. I have one deck for questions I can rehearse on the go, and another for exercises I need pen and paper for. 
+- I spend another an hour reviewing previous Anki cards and exercises.
+
+I set aside three months to study the Deep Learning Book fulltime. The book is 700 pages, so aim to ankify 10 - 15 pages per day. The first few chapters are denser, so I began with 5 pages a day and gradually got closer to 15 pages. 
+
+Once you have a broad theoretical knowledge of deep learning, I'd recommend Ankifying ~100 papers in the field you want to build an edge in. I'm using [OpenAI's curriculum and paper recommendations](https://spinningup.openai.com/en/latest/) to get up to speed with the research in deep reinforcement learning. 
+
 ## GPU access
-GPU access is key. If you want a fully configured development environment, Floydhub is perfect. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. The offer free TPU instances for ~6h. Kaggle.com also offers free ~6h training sessions on Tesla K80s. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. But the best option is to create a deep learning startup and apply for cloud credit. You don't need more than a [landing page](https://readymag.com/) and a [company email](https://www.zoho.eu/) to get $5-100K in cloud credit. You can apply on [Google's startup program](https://cloud.google.com/developers/startups/) or through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing). AWS, Digital Ocean, Azure, and Alibaba also have cloud credit programs for startups. 
+GPU access is key. If you want a fully configured development environment, Floydhub is perfect. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. The offer free TPU instances for ~6h. Kaggle.com also offers free ~6h training sessions on Tesla K80s. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. 
+
+But the best option is to create a deep learning startup and apply for cloud credit. You don't need more than a [landing page](https://readymag.com/) and a [company email](https://www.zoho.eu/) to get $5-100K in cloud credit. You can apply on [Google's startup program](https://cloud.google.com/developers/startups/) or through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing). AWS, Digital Ocean, Azure, and Alibaba also have cloud credit programs for startups. 
+
 
 ## Write-up of my process
 - [Implementing Keras models (I started with TFlearn, but I'd highly recommend using Keras instead)](https://blog.floydhub.com/my-first-weekend-of-deep-learning/) (I mistakenly thought TFlearn was the official frontend. They have now made Keras the official front-end to Tensorflow.)
