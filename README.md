@@ -55,8 +55,8 @@ If you have +$3K budget, building [your own rig is a great option.](https://medi
 - [Recoding the core concepts in python](https://blog.floydhub.com/coding-the-history-of-deep-learning/)
 - [My first paper using CNN](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
 - [My first paper using LSTM](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
-- My first paper using GAN(in progress)
-- My first paper using RL/evolution(in progress)
+- [My first paper using a GAN](http://www.aiartonline.com/design/emil-wallner/)
+- [My first paper using RL/evolution](https://github.com/corewarai/open_project)
 - [On going via my twitter feed](https://twitter.com/EmilWallner)
 
 ## Other good learning strategies:
