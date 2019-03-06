@@ -1,5 +1,5 @@
 ## Approach
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To [pass interviews](https://twitter.com/EmilWallner/status/1078972677874946049) at top-tier research firms and invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
 
 ## Practical
 **Note:** You don't need a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language).
