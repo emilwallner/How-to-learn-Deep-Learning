@@ -1,14 +1,14 @@
 ## Approach
 A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
 
-## Practical
+## Getting started [3 months]
 **Note:** You don't need a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language).
 - Spend a week on codecademy.com and learn the python syntax, command line and git. 
 - Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk&t=375s), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
 - Spend one month implementing models on cloud GPUs. Most beginners tend to start with Keras with a Tenorflow-backend or Pytorch using the FastAI library. Start with [these Keras models](https://github.com/keras-team/keras/tree/master/examples) or the [official Pytorch tutorials](https://pytorch.org/tutorials/). Also, check [the resources from FastAI.](http://course.fast.ai/) The FastAI community if becoming the go-to place for people wanting to apply deep learning and share the state of the art techniques.
 - Spend one month [recoding the core concepts](https://github.com/emilwallner/Deep-Learning-From-Scratch) in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. This will help you reduce a lot of cognitive load down the line. 
 
-## Reproducing Papers
+## Reproducing Papers [4-8 months]
 By reproducing papers you get a feel for doing actual work in deep learning. I'd recommend reproducing a paper or building a project in the following four areas: CNN, LSTM, GAN, and reinforcement learning.  For the first two areas, I'd recommend reimplementing [student papers.](http://cs231n.stanford.edu/reports.html) I'd recommend using Keras or Pytorch and reimplementing it from scratch.
 
 **Tips for reproducing papers:**
@@ -30,7 +30,7 @@ By reproducing papers you get a feel for doing actual work in deep learning. I'd
 
 The best way to get a feel for the most interesting ideas in Machine Learning is Twitter and [Arxiv-sanity](http://www.arxiv-sanity.com/). Here is my full list of people I [follow on Twitter](https://twitter.com/following). These are my favorites: [hardmaru](https://twitter.com/hardmaru), [ilyasut](https://twitter.com/ilyasut), [josephreisinger](https://twitter.com/josephreisinger), [math_rachel](https://twitter.com/math_rachel), [mustafasuleymn](https://twitter.com/mustafasuleymn), [catherineols](https://twitter.com/catherineols), [dennybritz](https://twitter.com/dennybritz), [ylecun](https://twitter.com/ylecun), [jtoy](https://twitter.com/jtoy), [_brohrer_](https://twitter.com/_brohrer_), [tkasasagi](https://twitter.com/tkasasagi), [jeremyjkun](https://twitter.com/jeremyjkun), [jeffclune](https://twitter.com/jeffclune), [danielgross](https://twitter.com/danielgross), [karoly_zsolnai](https://twitter.com/karoly_zsolnai), [mortendahlcs](https://twitter.com/mortendahlcs), [Reza_Zadeh](https://twitter.com/Reza_Zadeh), [goodfellow_ian](https://twitter.com/goodfellow_ian), [fchollet](https://twitter.com/fchollet), [michael_nielsen](https://twitter.com/michael_nielsen), [iamtrask](https://twitter.com/iamtrask), [jeremyphoward](https://twitter.com/jeremyphoward), [jackclarkSF](https://twitter.com/jackclarkSF), [ch402](https://twitter.com/ch402), [distillpub](https://twitter.com/distillpub)
 
-## Theory
+## Theory [6 - 10 months]
 I'd recommend starting with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I'm using the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
 
 I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
