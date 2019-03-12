@@ -44,7 +44,7 @@ The best way to get a feel for the most interesting ideas in Machine Learning is
 
 
 ## GPU access
-GPU access is key. If you want a fully configured development environment, Floydhub is perfect. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. The offer free TPU instances for ~6h. Kaggle.com also offers free ~6h training sessions on Tesla K80s. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. 
+GPU access is key. If you want a fully configured development environment, Floydhub is perfect. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. The offer free TPU instances for ~6h. Kaggle.com also offers free ~6h training sessions on Tesla P100s. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. 
 
 But the best option is to create a deep learning startup and apply for cloud credit. You don't need more than a [landing page](https://readymag.com/) and a [company email](https://www.zoho.eu/) to get $5K-100K in cloud credit. You can apply on [Google's startup program](https://cloud.google.com/developers/startups/) or through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing). AWS, Digital Ocean, Azure, and Alibaba also have cloud credit programs for startups.
 
