@@ -1,5 +1,5 @@
 ## Approach
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects and land jobs at start-ups. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. This path is optimized to build things, hence, if your sole intent is to work for a large corporation, this might not be for you.  
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects in deep learning. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
 
 ## Getting started [3 months]
 **Note:** The key is to start building your own projects as soon as possible. 9/10 of the people I meet tend to never move from taking online courses to building things. Also, you don't _need_ a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language). 
