@@ -2,7 +2,7 @@
 A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects in deep learning. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
 
 ## Getting started [3 months]
-**Note:** The key is to start building your own projects as soon as possible. 9/10 of the people I meet tend to never move from taking online courses to building things. Also, you don't _need_ a math background (I only know high school math), but a lot of determination. I found learning deep learning as hard as learning to program in C (my first programming language). 
+**Note:** The key is to start building your own projects as soon as possible. 
 - Spend a week on codecademy.com and learn the python syntax, command line and git. 
 - Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk&t=375s), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
 - Spend one month implementing models on cloud GPUs. Most beginners tend to start with Keras with a Tenorflow-backend or Pytorch using the FastAI library. Start with [these Keras models](https://github.com/keras-team/keras/tree/master/examples) or the [official Pytorch tutorials](https://pytorch.org/tutorials/). Also, check [the resources from FastAI.](http://course.fast.ai/) The FastAI community if becoming the go-to place for people wanting to apply deep learning and share the state of the art techniques. **Warning:** don't get stuck taking online courses and start building as soon as possible.
@@ -24,7 +24,7 @@ By reproducing papers you get a feel for doing actual work in deep learning. I'd
 - **Share your learning.** It's a great way to learn, you gain exposure, and you help people in the same position as you. 
 
 ## Theory [6 - 10 months]
-I'd recommend starting with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I'm using the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
+Start with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
 
 I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
 - I normally spend 6 hours reading 5 - 20 pages and finding YouTube tutorials to understand every concept. This includes doing exercises on Khan Academy and redoing derivations from lectures on Youtube.
