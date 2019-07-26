@@ -9,7 +9,7 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 - Spend one month [recoding the core concepts](https://github.com/emilwallner/Deep-Learning-From-Scratch) in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. This will help you reduce a lot of cognitive load down the line. 
 
 ## Reproducing Papers [4-8 months]
-By reproducing papers you get a feel for doing actual work in deep learning. Reproduce a paper or building a project in the following four areas: CNN, LSTM, GAN, and reinforcement learning.
+By reproducing papers you get a feel for doing actual work in deep learning. Reproduce a paper or building a project in the following four areas: vision, natural language processing, generative networks, and reinforcement learning/evolution.
 
 **Tips for reproducing papers:**
 - It takes 1-2 months to reproduce a student paper if you work full-time. It takes about 3 weeks to get clarity of the core concepts in each paper.
