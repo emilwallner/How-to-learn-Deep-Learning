@@ -60,6 +60,7 @@ If you have +$3K budget, building [your own rig is a great option.](https://medi
 - [On going via my twitter feed](https://twitter.com/EmilWallner)
 
 ## Other good learning strategies:
+- [S. Zayd Enam](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 - [Catherine Olsson](https://80000hours.org/articles/ml-engineering-career-transition-guide/)
 - [Greg Brockman V2](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
 - [Greg Brockman V1](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
