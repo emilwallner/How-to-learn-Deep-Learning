@@ -60,11 +60,13 @@ If you have +$3K budget, building [your own rig is a great option.](https://medi
 - [On going via my twitter feed](https://twitter.com/EmilWallner)
 
 ## Other good learning strategies:
-- [Per Harald Borgen](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c)
-- [Greg Brockman](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
+- [Catherine Olsson](https://80000hours.org/articles/ml-engineering-career-transition-guide/)
+- [Greg Brockman V2](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
+- [Greg Brockman V1](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
 - [Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [Amid Fish](http://amid.fish/reproducing-deep-rl)
 - [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 - [Confession as an AI researcher](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
+- YC Threads: [One](https://news.ycombinator.com/item?id=20765553) and [Two](https://news.ycombinator.com/item?id=18421422)
 
 If you have suggestions/questions create an issue or [ping me on Twitter.](https://twitter.com/EmilWallner)
