@@ -1,5 +1,5 @@
 ## Approach
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects in deep learning. 
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning.
 
 ## Getting started [3 months]
 **Note:** The key is to start building your own projects as soon as possible. 
