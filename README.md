@@ -1,5 +1,5 @@
 ## Approach
-A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects in deep learning. To invent [new deep learning algorithms](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/), also check the theory section. 
+A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning. It will enable you to create your own projects in deep learning. 
 
 ## Getting started [3 months]
 **Note:** The key is to start building your own projects as soon as possible. 
@@ -17,7 +17,6 @@ By reproducing papers you get a feel for doing actual work in deep learning. Rep
 - I often build the network in four steps. Start with one data example and make anything that runs. At this stage, it's okay if you only understood 20% of the paper and your network is buggy. Once you have something to experiment, it makes it a lot easier to add the remaining 80% of the knowledge. For the second stage, I start automating the training flow and try to overfit the network. Once you can overfit the model, I build a structure to create a network that can generalize. For the final part, I implement multiprocessing and optimize the CPU and GPU utilization. 
 - Discussions online are in general a good way to understand a paper better. Google is a good starting point, but also check reviewing sites such as [openreview](openreview.net), [Arxiv-sanity](http://www.arxiv-sanity.com/) or [Twitter search](https://twitter.com/search-advanced). 
 - Don't follow a step by step tutorial or MOOC. Instead, spend a few days scanning every MOOC and tutorial on the topic. This gives you an index of resources you can later dig deeper in. If you follow a step by step guide, you end up copy-pasting instead of learning anything.
-- It's very cognitive demanding to learn deep learning. To feel a sense of progress, I'd recommend [scheduling everything you do.](https://twitter.com/EmilWallner/status/955684571202359297) Also, have a Pomodoro timer and [block all news/notifications/social media.](https://twitter.com/EmilWallner/status/948200877680201729)
 - Most Q&A/forums will offer little help in solving your bugs. The best option is to document the problem you are facing in detail, then research all the unknowns. It often helps if you refactor your code and make small tests to try different assumptions about your model. I'd also suggest reaching out to the author of the paper you are reproducing. Again, if you reproduce student papers they are often happy to answer clarifying questions.
 - **Share your learning.** It's a great way to learn, you gain exposure, and you help people in the same position as you. 
 
@@ -31,23 +30,14 @@ I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.htm
 
 I set aside three months to study the Deep Learning Book fulltime. The book is 700 pages, so aim to ankify 10 - 15 pages per day. The first few chapters are denser, so I began with 5 pages a day and gradually got closer to 15 pages. 
 
-Once you have a broad theoretical knowledge of deep learning, I'd recommend Ankifying ~100 papers in the field you want to build an edge in. I'm using [OpenAI's curriculum and paper recommendations](https://spinningup.openai.com/en/latest/) to get up to speed with the research in deep reinforcement learning. 
+Once you have a broad theoretical knowledge of deep learning, I'd recommend Ankifying ~100 papers in the field you want to write your first paper or build a product. 
 
 ## Forums
 - [FastAI](http://forums.fast.ai/)
 - [Keras Slack](https://keras-slack-autojoin.herokuapp.com/)
 - [Distill Slack](https://join.slack.com/t/distillpub/shared_invite/enQtMzg1NzU3MzEzMTg3LWJkNmQ4Y2JlNjJkNDlhYTU2ZmQxMGFkM2NiMTI2NGVjNzJkOTdjNTFiOGZmNDBjNTEzZGUwM2U0Mzg4NDAyN2E)
 - [Pytorch](https://discuss.pytorch.org/)
-
-The best way to get a feel for the most interesting ideas in Machine Learning is Twitter and [Arxiv-sanity](http://www.arxiv-sanity.com/). Here is my full list of people I [follow on Twitter](https://twitter.com/following). These are my favorites: [hardmaru](https://twitter.com/hardmaru), [ilyasut](https://twitter.com/ilyasut), [josephreisinger](https://twitter.com/josephreisinger), [math_rachel](https://twitter.com/math_rachel), [mustafasuleymn](https://twitter.com/mustafasuleymn), [catherineols](https://twitter.com/catherineols), [dennybritz](https://twitter.com/dennybritz), [ylecun](https://twitter.com/ylecun), [jtoy](https://twitter.com/jtoy), [_brohrer_](https://twitter.com/_brohrer_), [tkasasagi](https://twitter.com/tkasasagi), [jeremyjkun](https://twitter.com/jeremyjkun), [jeffclune](https://twitter.com/jeffclune), [danielgross](https://twitter.com/danielgross), [karoly_zsolnai](https://twitter.com/karoly_zsolnai), [mortendahlcs](https://twitter.com/mortendahlcs), [Reza_Zadeh](https://twitter.com/Reza_Zadeh), [goodfellow_ian](https://twitter.com/goodfellow_ian), [fchollet](https://twitter.com/fchollet), [michael_nielsen](https://twitter.com/michael_nielsen), [iamtrask](https://twitter.com/iamtrask), [jeremyphoward](https://twitter.com/jeremyphoward), [jackclarkSF](https://twitter.com/jackclarkSF), [ch402](https://twitter.com/ch402), [distillpub](https://twitter.com/distillpub).
-
-
-## GPU access
-GPU access is key. If you want a fully configured development environment, Floydhub is perfect. If you have a GPU budget that is less than 100$/month I'd recommend colab.research.google.com. They offer free TPU instances for ~6h. Kaggle.com also offers free ~6h training sessions on Tesla P100s. If you have a low budget, yet need a lot of compute, I'd recommend paying 100$ for producthunt.com's subscription, which gives you $7.5K in AWS cloud credit. 
-
-But the best option is to create a deep learning startup and apply for cloud credit. You don't need more than a [landing page](https://readymag.com/) and a [company email](https://www.zoho.eu/) to get $5K-100K in cloud credit. You can apply on [Google's startup program](https://cloud.google.com/developers/startups/) or through one of [their partners](https://docs.google.com/spreadsheets/d/15nQTTOoi9yoeRvsRXGNZeY46FA1pKPb0fq3_qNpzz3w/edit?usp=sharing). AWS, Digital Ocean, Azure, and Alibaba also have cloud credit programs for startups.
-
-If you have +$3K budget, building [your own rig is a great option.](https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c) 
+- Twitter
 
 
 ## Write-up of my process
