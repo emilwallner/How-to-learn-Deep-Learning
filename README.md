@@ -1,27 +1,52 @@
 ## Approach
 A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning.
 
-## Getting started [3 months]
-**Note:** The key is to start building your own projects as soon as possible. 
-- Spend a week on codecademy.com and learn the python syntax, command line and git. 
+## Getting started [2 months]
+
+There are three main goals to get up to speed with deep learning: 
+1) Get familiar to the tools you will be working with, e.g. Python, the command line and Jupyter notebooks
+2) Get used to the workflow, everything from finding the data to deploying a trained model
+3) Building a deep learning mindset, an intuition for how deep learning models behave and how to improve them
+
+- Spend a week on codecademy.com and learn the python syntax, command line and git. If you don't have any previous programming experience, it's good to spend a few months learning how to program. Otherwise, it's easy to become overwhelmed. 
 - Spend one to two weeks using [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) and [Scikit-learn](http://scikit-learn.org/stable/) on [Kaggle problems](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted) using [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk&t=375s), e.g. [Titanic](https://www.kaggle.com/c/titanic), [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and [Iris](https://www.kaggle.com/uciml/iris). This gives you an overview of the machine learning mindset and workflow. 
-- Spend one month implementing models on cloud GPUs. Start with [FastAI and PyTorch](http://course.fast.ai/). The FastAI community is the go-to place for people wanting to apply deep learning and share the state of the art techniques. **Warning:** don't get stuck taking online courses and start building as soon as possible.
-- Spend one month [recoding the core concepts](https://github.com/emilwallner/Deep-Learning-From-Scratch) in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. This will help you reduce a lot of cognitive load down the line. 
+- Spend one month implementing models on cloud GPUs. Start with [FastAI and PyTorch](http://course.fast.ai/). The FastAI community is the go-to place for people wanting to apply deep learning and share the state of the art techniques.
 
-## Reproducing Papers [4-8 months]
-By reproducing papers you get a feel for doing actual work in deep learning. Reproduce a paper or building a project in the following four areas: vision, natural language processing, generative networks, and reinforcement learning/evolution.
+Once you have done this, you will know how to add value with ML. 
 
-**Tips for reproducing papers:**
-- It takes 1-2 months to reproduce a student paper if you work full-time. It takes about 3 weeks to get clarity of the core concepts in each paper.
-- Find github reimplementations, but avoid looking at repos using the same framework as you, since the temptation to copy-paste will be too high. Read all the repo issues, since the language is easier and you have a high chance of struggling with the same things.
-- I often build the network in four steps. Start with one data example and make anything that runs. At this stage, it's okay if you only understood 20% of the paper and your network is buggy. Once you have something to experiment, it makes it a lot easier to add the remaining 80% of the knowledge. For the second stage, I start automating the training flow and try to overfit the network. Once you can overfit the model, I build a structure to create a network that can generalize. For the final part, I implement multiprocessing and optimize the CPU and GPU utilization. 
-- Discussions online are in general a good way to understand a paper better. Google is a good starting point, but also check reviewing sites such as [openreview](openreview.net), [Arxiv-sanity](http://www.arxiv-sanity.com/) or [Twitter search](https://twitter.com/search-advanced). 
-- Don't follow a step by step tutorial or MOOC. Instead, spend a few days scanning every MOOC and tutorial on the topic. This gives you an index of resources you can later dig deeper in. If you follow a step by step guide, you end up copy-pasting instead of learning anything.
-- Most Q&A/forums will offer little help in solving your bugs. The best option is to document the problem you are facing in detail, then research all the unknowns. It often helps if you refactor your code and make small tests to try different assumptions about your model. I'd also suggest reaching out to the author of the paper you are reproducing. Again, if you reproduce student papers they are often happy to answer clarifying questions.
-- **Share your learning.** It's a great way to learn, you gain exposure, and you help people in the same position as you. 
 
-## Theory [6 - 10 months]
+## Creating projects
+
+Creating your projects is key to show others that you can add value with ML. The most common mistake of the internet-educated in machine learning is to collect online course certificates instead of building projects. 
+
+Employers tend to not value course certificates because they don't trust the rigor of mass accreditation. Instead, the internet-educated need tangible evidence of their knowledge:
+
+- Publishing paper at good conferences
+- Winning ML competitions
+- Pull requests to established open source projects
+- 50-100K readers on ML related topics
+- ML tools with +100 weekly users
+- ML gig/job
+- ML art
+
+If you are not sure of a good first project or where to begin, direct message people on Twitter. Find people on Twitter whos work inspire you, tell them what you have done so far and what you hope to achieve. Write a personal message to 50-100 people - you'll be surprised at how helpful people are. Just make sure you have done your homework and read up on best practices for cold outreach. 
+
+## Theory 101 [1-3 months]
+
+Learning how to read papers is a great source of knowledge to increase your projects, and critical if you want to get into research. There are three key areas to feel comfortable reading papers:
+1) Understanding the details of the most frequent algorithms, gradient descent, linear regression, and MLPs, etc
+2) Learning how to translate the 50 most frequent math notations
+3) Learn the basics of algebra, calculus, statistics, and machine learning
+
+- Spend one month [recoding the core concepts](https://github.com/emilwallner/Deep-Learning-From-Scratch) in python numpy, including a The Method of Least Squares, Gradient Descent, Linear Regression, The Perceptron, and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. This will help you reduce a lot of cognitive load down the line. 
+-  I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. I use it as a curriculum, and the use the internet to learn the details about each concept. Although, it's good to have six months of practical experience or a math/statistic background before you start with the theory. 
+- Most of the value comes from memorizing the math notations on the first few pages. Learning that notations are compact logic and how to translate it into code will make feel less anxious about the theory. If you have a week spare, I'd spend it on 3Blue1Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [the Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), and StatQuests' [the Basics (of statistics)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) and [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). Use a spaced repetition app like Anki and memorize all the key concepts. Use images as much as possible, they are easier to memorize. 
+- If you have 2-3 months, spend it on part 1 of the Deep learning book. The MachineLearningGod shows a [great way to study the book.](https://www.youtube.com/watch?v=bzp5bQY7XmE&list=PLh6SAYydrIpc8uCGc_KxjLSDRV6tfT10u&index=2) Use lectures and videos to understand the concepts, and then use Anki and Khan academy exercises to learn them. 
+
+## Research [6 - 10 months]
 Start with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
+
+![alt text](https://i.imgur.com/SMSyuhV.jpg)
 
 I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
 - I normally spend 6 hours reading 5 - 20 pages and finding YouTube tutorials to understand every concept. This includes doing exercises on Khan Academy and redoing derivations from lectures on Youtube.
