@@ -15,7 +15,7 @@ There are three main goals to get up to speed with deep learning:
 Once you have done this, you will know how to add value with ML. 
 
 
-## Portfolio
+## Portfolio [3 - 12 months]
 
 Creating your projects is key to show others that you can add value with ML. The most common mistake of the internet-educated in machine learning is to collect online course certificates instead of building projects. 
 
