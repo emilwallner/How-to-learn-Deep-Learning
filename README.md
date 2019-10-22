@@ -44,18 +44,12 @@ Learning how to read papers is a great source of knowledge to increase your proj
 - If you have 2-3 months, spend it on part 1 of the Deep learning book. The MachineLearningGod shows a [great way to study the book.](https://www.youtube.com/watch?v=bzp5bQY7XmE&list=PLh6SAYydrIpc8uCGc_KxjLSDRV6tfT10u&index=2) Use lectures and videos to understand the concepts, and then use Anki and Khan academy exercises to learn them. 
 
 ## Your first paper [6 - 12 months]
-Start with the practical approach, then you'll be familiar with many of the concepts when you start adding theoretical knowledge. I had 18 months of practical experience before I started digging into the theory. I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
 
 ![alt text](https://i.imgur.com/SMSyuhV.jpg)
 
-I'm using Michael Nielsen's [Anki method](http://augmentingcognition.com/ltm.html) to process the material. 
-- I normally spend 6 hours reading 5 - 20 pages and finding YouTube tutorials to understand every concept. This includes doing exercises on Khan Academy and redoing derivations from lectures on Youtube.
-- Then I spend 2 - 3 hours creating Anki cards. I have one deck for questions I can rehearse on the go, and another for exercises I need a pen and paper for. 
-- I spend another hour reviewing previous Anki cards and exercises.
+[WIP]
 
-I set aside three months to study the Deep Learning Book fulltime. The book is 700 pages, so aim to ankify 10 - 15 pages per day. The first few chapters are denser, so I began with 5 pages a day and gradually got closer to 15 pages. 
 
-Once you have a broad theoretical knowledge of deep learning, I'd recommend Ankifying ~100 papers in the field you want to write your first paper or build a product. 
 
 ## Forums
 - [FastAI](http://forums.fast.ai/)
