@@ -17,9 +17,9 @@ Once you have done this, you will know how to add value with ML.
 
 ## Portfolio [3 - 12 months]
 
-Creating your projects is key to show others that you can add value with ML. The most common mistake of the internet-educated in machine learning is to collect online course certificates instead of building projects. 
+Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP). Here's Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056), and here's another thread on how to [write about them](https://twitter.com/EmilWallner/status/1162289417140264960). 
 
-Employers tend to not value course certificates because they don't trust the rigor of mass accreditation. Instead, the internet-educated need tangible evidence of their knowledge:
+A common mistake is to collect online course certificates instead of building projects. Employers tend to not value course certificates because they don't trust the rigor of mass accreditation. Instead, the internet-educated need tangible evidence of their knowledge:
 
 - Publishing paper at good conferences
 - Winning ML competitions
@@ -28,8 +28,6 @@ Employers tend to not value course certificates because they don't trust the rig
 - ML tools with +100 weekly users
 - ML gig/job
 - ML art
-
-Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP). Here's Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056), and here's another thread on how to [write about them](https://twitter.com/EmilWallner/status/1162289417140264960). 
 
 If you are not sure of a good first project or where to begin, direct message people on Twitter. Find people on Twitter whos work inspire you, tell them what you have done so far and what you hope to achieve. Write a personal message to 50-100 people - you'll be surprised at how helpful people are. Just make sure you have done your homework and read up on best practices for cold outreach. 
 
