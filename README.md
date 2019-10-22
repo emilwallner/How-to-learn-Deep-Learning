@@ -29,6 +29,8 @@ Employers tend to not value course certificates because they don't trust the rig
 - ML gig/job
 - ML art
 
+Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP).
+
 If you are not sure of a good first project or where to begin, direct message people on Twitter. Find people on Twitter whos work inspire you, tell them what you have done so far and what you hope to achieve. Write a personal message to 50-100 people - you'll be surprised at how helpful people are. Just make sure you have done your homework and read up on best practices for cold outreach. 
 
 ## Theory 101 [1-3 months]
