@@ -17,7 +17,7 @@ Once you have done this, you will know how to add value with ML.
 
 ## Portfolio [3 - 12 months]
 
-Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP). Here's Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056), and here's another thread on how to [write about them](https://twitter.com/EmilWallner/status/1162289417140264960). 
+Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056), and here's another thread on how to [write about them](https://twitter.com/EmilWallner/status/1162289417140264960). 
 
 A common mistake is to collect online course certificates instead of building projects. Employers tend to not value course certificates because they don't trust the rigor of mass accreditation. Instead, the internet-educated need tangible evidence of their knowledge:
 
