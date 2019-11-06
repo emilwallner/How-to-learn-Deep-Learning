@@ -33,7 +33,7 @@ If you are not sure of a good first project or where to begin, direct message pe
 
 ## Theory 101 [1-3 months]
 
-Learning how to read papers is a great source of knowledge to increase your projects, and critical if you want to get into research. There are three key areas to feel comfortable reading papers:
+Learning how to read papers is a great source to improve your projects, and critical if you want to get into research. There are three key areas to feel comfortable reading papers:
 1) Understanding the details of the most frequent algorithms, gradient descent, linear regression, and MLPs, etc
 2) Learning how to translate the 50 most frequent math notations
 3) Learn the basics of algebra, calculus, statistics, and machine learning
