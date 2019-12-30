@@ -65,7 +65,8 @@ Deep Learning 학습에 박차를 가하기 위해서는 다음과 같은 3개�
 
 
 ## Write-up of my process
-- [케라스로 모델 구현 (저의 경우 TFlearn으로 시작했지만, Keras로 시작하는 것을 강력히 추천합니다)](https://blog.floydhub.com/my-first-weekend-of-deep-learning/) (당시 저는 TFlearn이 Tensorflow의 공식 Front-end 인줄로 착각했습니다. 이제 Tensorflow는 Keras를 공식 Front-end로 지정했습니다.)
+- [케라스로 모델 구현 (저의 경우 TFlearn으로 시작했지만, Keras로 시작하는 것을 강력히 추천합니다)](https://blog.floydhub.com/my-first-weekend-of-deep-learning/)
+(당시 저는 TFlearn이 Tensorflow의 공식 Front-end 인줄로 착각했습니다. 이제 Tensorflow는 Keras를 공식 Front-end로 지정했습니다.)
 - [파이썬 핵십 개념들 리코딩](https://blog.floydhub.com/coding-the-history-of-deep-learning/)
 - [CNN을 이용한 첫 논문](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
 - [LSTM을 이용한 첫 논문](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
