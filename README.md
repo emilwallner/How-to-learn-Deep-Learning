@@ -3,7 +3,7 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 
 ---
 
-Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md)
+Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README.md)
 
 ## Getting started [2 months]
 
