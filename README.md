@@ -1,6 +1,10 @@
 ## Approach
 A practical, top-down approach, starting with high-level frameworks with a focus on Deep Learning.
 
+---
+
+Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md)
+
 ## Getting started [2 months]
 
 There are three main goals to get up to speed with deep learning: 
