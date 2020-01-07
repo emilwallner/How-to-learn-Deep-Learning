@@ -9,7 +9,7 @@ Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Lea
 
 There are three main goals to get up to speed with deep learning: 
 1) Get familiar to the tools you will be working with, e.g. Python, the command line and Jupyter notebooks
-2) Get used to the workflow, everything from finding the data to deploying a trained model
+2) Get used to the workflow, everything from [finding the data to deploying a trained model](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 3) Building a deep learning mindset, an intuition for how deep learning models behave and how to improve them
 
 - Spend a week on codecademy.com and learn the python syntax, command line and git. If you don't have any previous programming experience, it's good to spend a few months learning how to program. Otherwise, it's easy to become overwhelmed. 
