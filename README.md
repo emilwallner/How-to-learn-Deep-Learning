@@ -37,10 +37,10 @@ Here are rough guidelines to self-assess the strength of your portfolio:
 
 Project Type | Base score | 
 -------------| -----------|
-Common projects | -1 p ||
-Unique projects | 10 p |
+Common project | -1 p ||
+Unique project | 10 p |
 
-Multiplier Type | Multiplier factor
+Multiplier Type | Factor
 -----------------|-----------------
 Readme | 5x
 Write-up | 5x
@@ -52,7 +52,7 @@ Employer relevancy | 20x
 
 
 
-### Applied research/research assistant:
+### Applied research/ research assistant/ residencies:
 
 Projects type | Base score
 --------------| -----------
@@ -60,7 +60,7 @@ Common project | -1 p
 Unique project | 1 p
 SOTA paper implementation | 20 p
 
-Multiplier type | Multiplier factor
+Multiplier type | Factor
 ----------------| --------------- 
 Readme | 5x
 Write-up | 5x
@@ -79,7 +79,7 @@ An unpublished paper | 5 p
 ICML/ICLR/NeurIPS publication | 500p
 All other publications | 50 p
 
-Multiplier type | Multiplier factor
+Multiplier type | Factor
 ------------------| ------------------
 First author paper | 10x
 Employer relevancy | 20x
