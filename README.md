@@ -24,10 +24,10 @@ Once you have done this, you will know how to add value with ML.
 Think of your portfolio as evidence to a potential employer that you can provide value for them.
 
 When you are looking for your first job, there are four main roles you can apply for 
-1. Machine learning engineering, 
-1. Applied Machine Learning researcher, 
-1. Machine Learning Research scientist, and 
-1. Software engineering. 
+1. Machine Learning Engineering, 
+1. Applied Machine Learning Researcher, 
+1. Machine Learning Research Scientist, and 
+1. Software Engineering. 
 
 A lot of the work related to machine learning is pure software engineering roles (category 4), e.g. scaling infrastructure, but that's out of scope for this article. 
 
@@ -89,7 +89,10 @@ Employer relevancy | 20x
 
 ### Context
 
-You'll have a mix of  5 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 1) the applicant has experience tackling our type of problems, 2) the applicants work is easy to understand and well organised, and 3) the work was without a doubt 100% made by the applicant.
+You'll have a mix of  5 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 
+* the applicant has experience tackling our type of problems,
+* the applicants work is easy to understand and well organised, and
+* the work was without a doubt 100% made by the applicant.
 
 Common projects include things as MOOC participation, dog/cat classifiers, the titanic and iris datasets. They are often more distracting than useful. They also indicate that you activly avoid real-world problem-solving.
 
