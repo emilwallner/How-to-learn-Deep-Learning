@@ -21,19 +21,84 @@ Once you have done this, you will know how to add value with ML.
 
 ## Portfolio [3 - 12 months]
 
-Your portfolio is a gateway to new opportunities, so focus on things you have an interest in. It's also an opportunity to explore different areas in machine learning. If you're not sure where to start, I'd start with a computer vision project and a language-related project (NLP). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056), and here's another thread on how to [write about them](https://twitter.com/EmilWallner/status/1162289417140264960). 
+Think of your portfolio as evidence to a potential employer that you can provide value for them.
 
-A common mistake is to collect online course certificates instead of building projects. Employers tend to not value course certificates because they don't trust the rigor of mass accreditation. Instead, the internet-educated need tangible evidence of their knowledge:
+When you are looking for your first job, there are four main roles you can apply for 
+1. Machine learning engineering, 
+1. Applied Machine Learning researcher, 
+1. Machine Learning Research scientist, and 
+1. Software engineering. 
 
-- Publishing paper at good conferences
-- Winning ML competitions
-- Pull requests to established open source projects
-- 50-100K readers on ML related topics
-- ML tools with +100 weekly users
-- ML gig/job
-- ML art
+A lot of the work related to machine learning is pure software engineering roles (category 4), e.g. scaling infrastructure, but that's out of scope for this article. 
 
-If you are not sure of a good first project or where to begin, direct message people on Twitter. Find people on Twitter whos work inspire you, tell them what you have done so far and what you hope to achieve. Write a personal message to 50-100 people - you'll be surprised at how helpful people are. Just make sure you have done your homework and read up on best practices for cold outreach. 
+Here are rough guidelines to self-assess the strength of your portfolio:
+
+### Machine learning engineering:
+
+Project Type | Base score | 
+-------------| -----------|
+Common projects | -1 p ||
+Unique projects | 10 p |
+
+Multiplier Type | Multiplier factor
+-----------------|-----------------
+Readme | 5x
+Write-up | 5x
+Kaggle Medal | 10x
+Employer relevancy | 20x
+ 
+* __Hireable:__ 5,250 p
+* __Competative:__ 15,000 p
+
+
+
+### Applied research/research assistant:
+
+Projects type | Base score
+--------------| -----------
+Common project | -1 p
+Unique project | 1 p
+SOTA paper implementation | 20 p
+
+Multiplier type | Multiplier factor
+----------------| --------------- 
+Readme | 5x
+Write-up | 5x
+SOTA performance | 5x
+Employer relevancy | 20x
+
+* __Hireable:__  52,500 p
+* __Competitive:__ 150,000 p
+
+
+### Research:
+
+Project type | Base score
+-------------| ----------------
+An unpublished paper | 5 p
+ICML/ICLR/NeurIPS publication | 500p
+All other publications | 50 p
+
+Multiplier type | Multiplier factor
+------------------| ------------------
+First author paper | 10x
+Employer relevancy | 20x
+
+* __Hireable:__ 20,000 p
+* __Competitive roles and elite PhD positions:__ 200,000 p
+
+### Context
+
+You'll have a mix of  5 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 1) the applicant has experience tackling our type of problems, 2) the applicants work is easy to understand and well organised, and 3) the work was without a doubt 100% made by the applicant.
+
+Common projects include things as MOOC participation, dog/cat classifiers, the titanic and iris datasets. They are often more distracting than useful. They also indicate that you activly avoid real-world problem-solving.
+
+A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on active Kaggle competitions, and machine learning consulting projects on freelance sites like Upwork. Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
+
+Most recruiters will spend 10-20 seconds on each of your portfolio items. Unless they can understand the value in that time frame, the value of the project is close to zero. Thus, writing and documentation are key. Here's another thread on how to [write about portfolio items](https://twitter.com/EmilWallner/status/1162289417140264960). 
+
+The last key point is relevancy. It's more fun to make a wide range of projects, but if you want to optimize for breaking into the industry, you want to do all projects in one niche, thus making your skillset **super** relevant for a specific pool of employers.
+
 
 ## Theory 101 [1-3 months]
 
@@ -46,12 +111,6 @@ Learning how to read papers is a great source to improve your projects, and crit
 -  I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. I use it as a curriculum, and the use the internet to learn the details about each concept. Although, it's good to have six months of practical experience or a math/statistic background before you start with the theory. 
 - Most of the value comes from memorizing the math notations on the first few pages. Learning that notations are compact logic and how to translate it into code will make you feel less anxious about the theory. If you have a week spare, I'd spend it on 3Blue1Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [the Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), and StatQuests' [the Basics (of statistics)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) and [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). Use a spaced repetition app like Anki and memorize all the key concepts. Use images as much as possible, they are easier to memorize. 
 - If you have 2-3 months, spend it on part 1 of the Deep learning book. The MachineLearningGod shows a [great way to study the book.](https://www.youtube.com/watch?v=bzp5bQY7XmE&list=PLh6SAYydrIpc8uCGc_KxjLSDRV6tfT10u&index=2) Use lectures and videos to understand the concepts, and then use Anki and Khan academy exercises to learn them. 
-
-## Your first paper [6 - 12 months]
-
-![alt text](https://i.imgur.com/SMSyuhV.jpg)
-
-[WIP]
 
 
 
