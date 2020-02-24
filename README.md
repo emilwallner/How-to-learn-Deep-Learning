@@ -33,7 +33,7 @@ A lot of the work related to machine learning is pure software engineering roles
 
 Here are rough guidelines to self-assess the strength of your portfolio:
 
-### Machine learning engineering:
+#### Machine learning engineering:
 
 Project Type | Base score | 
 -------------| -----------|
@@ -52,7 +52,7 @@ Employer relevancy | 20x
 
 
 
-### Applied research/ research assistant/ residencies:
+#### Applied research/ research assistant/ residencies:
 
 Projects type | Base score
 --------------| -----------
@@ -71,7 +71,7 @@ Employer relevancy | 20x
 * __Competitive:__ 150,000 p
 
 
-### Research:
+#### Research:
 
 Project type | Base score
 -------------| ----------------
