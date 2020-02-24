@@ -99,7 +99,7 @@ Common projects include things as MOOC participation, dog/cat classifiers, the t
 A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on [active Kaggle competitions](https://www.kaggle.com/competitions), and [machine learning consulting projects](https://www.upwork.com/freelance-jobs/machine-learning/), and demo versions of [common prodution pipelines](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
 
 __Examples:__
-* My first portfolio item (after 2 months of learning): [Code](https://github.com/emilwallner/Coloring-greyscale-images) | [Write-up](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
+* My first portfolio item (after 2 months of learning): [Code](https://github.com/emilwallner/Coloring-greyscale-images) | [Write-up](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/)
 * My second portfolio item (after 4 months of learning): [Code](https://github.com/emilwallner/Screenshot-to-code) | [Write-up](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 * [Dylan Djian's](https://github.com/dylandjian) first portfolio item: [Code](https://github.com/dylandjian/retro-contest-sonic) | [Write-up](https://dylandjian.github.io/world-models/)
 * [Dylan Djian's](https://github.com/dylandjian) second portfolio item: [Code](https://github.com/dylandjian/SuperGo) | [Write-up](https://dylandjian.github.io/alphago-zero/)
