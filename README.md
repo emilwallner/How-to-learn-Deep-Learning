@@ -9,7 +9,7 @@ Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Lea
 
 There are three main goals to get up to speed with deep learning: 
 1) Get familiar to the tools you will be working with, e.g. Python, the command line and Jupyter notebooks
-2) Get used to the workflow, everything from [finding the data to deploying a trained model](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+2) Get used to the workflow, everything from finding the data to deploying a trained model
 3) Building a deep learning mindset, an intuition for how deep learning models behave and how to improve them
 
 - Spend a week on codecademy.com and learn the python syntax, command line and git. If you don't have any previous programming experience, it's good to spend a few months learning how to program. Otherwise, it's easy to become overwhelmed. 
@@ -96,11 +96,24 @@ You'll have a mix of  5 - 10 technical and non-technical people looking at your 
 
 Common projects include things as MOOC participation, dog/cat classifiers, the titanic and iris datasets. They are often more distracting than useful. They also indicate that you activly avoid real-world problem-solving.
 
-A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on active Kaggle competitions, and machine learning consulting projects on freelance sites like Upwork. Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
+A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on [active Kaggle competitions](https://www.kaggle.com/competitions), and [machine learning consulting projects](https://www.upwork.com/freelance-jobs/machine-learning/), and demo versions of [common prodution pipelines](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
+
+__Examples:__
+* My first portfolio item (after 2 months of learning): [Code](https://github.com/emilwallner/Coloring-greyscale-images) | [Write-up](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
+* My second portfolio item (after 4 months of learning): [Code](https://github.com/emilwallner/Screenshot-to-code) | [Write-up](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+* [Dylan Djian's](https://github.com/dylandjian) first portfolio item: [Code](https://github.com/dylandjian/retro-contest-sonic) | [Write-up](https://dylandjian.github.io/world-models/)
+* [Dylan Djian's](https://github.com/dylandjian) second portfolio item: [Code](https://github.com/dylandjian/SuperGo) | [Write-up](https://dylandjian.github.io/alphago-zero/)
+* [Reiichiro Nakano's](https://github.com/reiinakano) first portfolio item: [Code](https://github.com/reiinakano/arbitrary-image-stylization-tfjs) | [Write-up](https://magenta.tensorflow.org/blog/2018/12/20/style-transfer-js/)
+* [Reiichiro Nakano's](https://github.com/reiinakano) second portfolio item: [Write-up](https://reiinakano.com/2019/01/27/world-painters.html)
 
 Most recruiters will spend 10-20 seconds on each of your portfolio items. Unless they can understand the value in that time frame, the value of the project is close to zero. Thus, writing and documentation are key. Here's another thread on how to [write about portfolio items](https://twitter.com/EmilWallner/status/1162289417140264960). 
 
 The last key point is relevancy. It's more fun to make a wide range of projects, but if you want to optimize for breaking into the industry, you want to do all projects in one niche, thus making your skillset **super** relevant for a specific pool of employers.
+
+__Further Inspiration:__
+* [FastAI student projects](https://forums.fast.ai/t/share-you-work-here-highlights/57140)
+* [Stanford NLP student projects](https://nlp.stanford.edu/courses/cs224n/)
+* [Stanford CNN student projects](http://cs231n.stanford.edu/index.html)
 
 
 ## Theory 101 [1-3 months]
