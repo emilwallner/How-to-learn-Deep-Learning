@@ -91,7 +91,7 @@ Employer relevancy | 20x
 
 You'll have a mix of  5 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 
 * the applicant has experience tackling our type of problems,
-* the applicants work is easy to understand and well organised, and
+* the applicant's work is easy to understand and well organised, and
 * the work was without a doubt 100% made by the applicant.
 
 Common projects include things as MOOC participation, dog/cat classifiers, the titanic and iris datasets. They are often more distracting than useful. They also indicate that you activly avoid real-world problem-solving.
