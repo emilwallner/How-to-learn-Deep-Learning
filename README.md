@@ -162,6 +162,7 @@ Gugger.
 - Twitter
 
 ## Other good learning strategies:
+- [Emil Wallner](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 - [S. Zayd Enam](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 - [Catherine Olsson](https://80000hours.org/articles/ml-engineering-career-transition-guide/)
 - [Greg Brockman V2](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
