@@ -25,15 +25,32 @@ Think of your portfolio as evidence to a potential employer that you can provide
 
 When you are looking for your first job, there are four main roles you can apply for 
 1. Machine Learning Engineering, 
-1. Applied Machine Learning Researcher, 
+1. Applied Machine Learning Researcher / Residencies, 
 1. Machine Learning Research Scientist, and 
 1. Software Engineering. 
 
 A lot of the work related to machine learning is pure software engineering roles (category 4), e.g. scaling infrastructure, but that's out of scope for this article. 
 
+It's easiest to get a foot in the door if you aim for Machine Learning Engineering roles. There are a magnitude more ML engineering roles compared to category 2 & 3 roles, they require little to no theory, and they are less competitive. Most employers prefer scaling and leveraging stable implementations, often ~1 year old, instead of allocating scarce resources to implement SOTA papers, which are often time-consuming and seldom work well in practice.  
+
+Once you can cover your bills and have a few years of experience, you are in a better position to learn theory and advance to category 2 & 3 roles. This is especially true if you are self-taught, you often have an edge against an average university graduate. In general, graduates have weak practical skills and strong theory skills. 
+
+### Context
+
+You'll have a mix of  3 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 
+* the applicant has experience tackling our type of problems,
+* the applicant's work is easy to understand and well organized, and
+* the work was without a doubt 100% made by the applicant.
+
+Most ML learners end up with the same portfolio as everyone else. Portfolio items include things as MOOC participation, dog/cat classifiers, and implementations on toy datasets such as the titanic and iris datasets. They often indicate that you actively avoid real-world problem-solving, and prefer being in your comfort zone by copy-pasting from tutorials. These portfolio items often signal negative value instead of signaling that you are a high-quality candidate.
+
+A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on [active Kaggle competitions](https://www.kaggle.com/competitions), and [machine learning consulting projects](https://www.upwork.com/freelance-jobs/machine-learning/), and demo versions of [common production pipelines](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
+
 Here are rough guidelines to self-assess the strength of your portfolio:
 
 #### Machine learning engineering:
+
+Even though ML engineering roles are the most strategic entry point, they are still highly competitive. In general, there are ~100 software engineering roles for every ML role. From the self-learners I know, 2/3 fail to get a foot in the door and end up taking software engineering roles instead. You are ready to look for a job when you have two high-quality projects that are well-documented, have unique datasets, and are relevant to a [specific industry](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9), say banking or insurance. 
 
 Project Type | Base score | 
 -------------| -----------|
@@ -42,8 +59,8 @@ Unique project | 10 p |
 
 Multiplier Type | Factor
 -----------------|-----------------
-Readme | 5x
-Write-up | 5x
+Strong documentation | 5x
+5000-word article | 5x
 Kaggle Medal | 10x
 Employer relevancy | 20x
  
@@ -52,18 +69,27 @@ Employer relevancy | 20x
 
 
 
-#### Applied research/ research assistant/ residencies:
+#### Applied research / research assistant/ residencies:
+
+For most companies, the risk of pursuing cutting edge research is often too high, thus only the biggest companies tend to need this skillset. There are smaller research organizations that hire for these positions, but these positions tend to be poorly advertised and have a bias for people in their existing community. 
+
+Many of these roles don't require a Ph.D., which makes them available to most people with a Bachelor's or Master's degrees, or self-learners with one year of focussed study. 
+
+Given the status, scarcity, and requirements for these positions, they are the most competitive ML positions. Positions at well-known companies tend to get more than a thousand applicants per position.
+
+Daily, these roles require that you understand and can implement SOTA papers, thus that's what they will be looking for in your portfolio. 
+
 
 Projects type | Base score
 --------------| -----------
-Common project | -1 p
+Common project | -10 p
 Unique project | 1 p
 SOTA paper implementation | 20 p
 
 Multiplier type | Factor
 ----------------| --------------- 
-Readme | 5x
-Write-up | 5x
+Strong documentation | 5x
+5000-word article | 5x
 SOTA performance | 5x
 Employer relevancy | 20x
 
@@ -71,10 +97,13 @@ Employer relevancy | 20x
 * __Competitive:__ 150,000 p
 
 
-#### Research:
+#### Research Scientist:
+
+Research scientist roles require a Ph.D. or equivalent experience. While the former category requires the ability to implement SOTA papers, this category requires you to come up with research ideas. The mainstream research community measure the quality of research ideas by their impact, [here is a list of the venues and their impact](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence). To have a competitive portfolio, you need two published papers in the top venues in an area that's relevant to your potential employer.
 
 Project type | Base score
 -------------| ----------------
+Common project | -100 p
 An unpublished paper | 5 p
 ICML/ICLR/NeurIPS publication | 500p
 All other publications | 50 p
@@ -86,17 +115,6 @@ Employer relevancy | 20x
 
 * __Hireable:__ 20,000 p
 * __Competitive roles and elite PhD positions:__ 200,000 p
-
-### Context
-
-You'll have a mix of  5 - 10 technical and non-technical people looking at your portfolio, regardless of their background, you want to spark the following reactions: 
-* the applicant has experience tackling our type of problems,
-* the applicant's work is easy to understand and well organised, and
-* the work was without a doubt 100% made by the applicant.
-
-Common projects include things as MOOC participation, dog/cat classifiers, the titanic and iris datasets. They are often more distracting than useful. They also indicate that you activly avoid real-world problem-solving.
-
-A unique portfolio item implies that you have tackled a unique problem without a solution, and thus have to engage in the type of problem-solving an employee does daily. A good starting point is to look for portfolio ideas on [active Kaggle competitions](https://www.kaggle.com/competitions), and [machine learning consulting projects](https://www.upwork.com/freelance-jobs/machine-learning/), and demo versions of [common prodution pipelines](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf). Here's a Twitter thread on [how to come up with portfolio ideas](https://twitter.com/EmilWallner/status/1184723538810413056).
 
 __Examples:__
 * My first portfolio item (after 2 months of learning): [Code](https://github.com/emilwallner/Coloring-greyscale-images) | [Write-up](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/)
