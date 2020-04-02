@@ -134,18 +134,24 @@ __Further Inspiration:__
 * [Stanford CNN student projects](http://cs231n.stanford.edu/index.html)
 
 
-## Theory 101 [1-3 months]
+## Theory 101 [4 months]
 
-Learning how to read papers is a great source to improve your projects, and critical if you want to get into research. There are three key areas to feel comfortable reading papers:
+Learning how to read papers is critical if you want to get into research, and a brilliant asset as an ML engineer. There are three key areas to feel comfortable reading papers:
 1) Understanding the details of the most frequent algorithms, gradient descent, linear regression, and MLPs, etc
 2) Learning how to translate the most frequent math notations into code
 3) Learn the basics of algebra, calculus, statistics, and machine learning
 
-- Spend one month [recoding the core concepts](https://github.com/emilwallner/Deep-Learning-From-Scratch) in python numpy, including least squares, gradient descent, linear regression, and a vanilla neural network. Andrew Trask's [book](https://www.manning.com/books/grokking-deep-learning) and [blog](https://iamtrask.github.io/) are great for this. This will help you reduce a lot of cognitive load down the line. 
--  I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. I use it as a curriculum, and the use the internet to learn the details about each concept. Although, it's good to have six months of practical experience or a math/statistic background before you start with the theory. 
-- Learning that notations are compact logic and how to translate it into code will make you feel less anxious about the theory. If you have a week spare, I'd spend it on 3Blue1Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [the Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), and StatQuests' [the Basics (of statistics)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) and [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). Use a spaced repetition app like Anki and memorize all the key concepts. Use images as much as possible, they are easier to memorize. 
-- If you have 2-3 months, spend it on part 1 of the Deep learning book. The MachineLearningGod shows a [great way to study the book.](https://www.youtube.com/watch?v=bzp5bQY7XmE&list=PLh6SAYydrIpc8uCGc_KxjLSDRV6tfT10u&index=2) Use lectures and videos to understand the concepts, and then use Anki and Khan academy exercises to learn them. 
+- For the first week, spend it on 3Blue1Brown's [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [the Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), and StatQuests' [the Basics (of statistics)](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) and [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF). Use a spaced repetition app like Anki and memorize all the key concepts. Use images as much as possible, they are easier to memorize. 
+- Spend one month [recoding the core concepts](https://github.com/eriklindernoren/ML-From-Scratch) in python numpy, including least squares, gradient descent, linear regression, and a vanilla neural network. This will help you reduce a lot of cognitive load down the line. Learning that notations are compact logic and how to translate it into code will make you feel less anxious about the theory.
+-  I believe the best deep learning theory curriculum is the [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville. I use it as a curriculum, and the use online courses and internet resources to learn the details about each concept. Spend three months on part 1 of the Deep learning book. The MachineLearningGod shows a [great way to study the book.](https://www.youtube.com/watch?v=bzp5bQY7XmE&list=PLh6SAYydrIpc8uCGc_KxjLSDRV6tfT10u&index=2) Use lectures and videos to understand the concepts, Khan academy type exercises to master each concept, and Anki flashcards to remember them long-term. 
 
+**Key Books:**
+- [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+- [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/gp/product/1492045527/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Jeremy Howard and Sylvain.
+Gugger.
+- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet.
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew W. Trask.
 
 
 ## Forums
