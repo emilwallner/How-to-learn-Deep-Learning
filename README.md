@@ -50,7 +50,7 @@ Here are rough guidelines to self-assess the strength of your portfolio:
 
 #### Machine learning engineering:
 
-Even though ML engineering roles are the most strategic entry point, they are still highly competitive. In general, there are ~100 software engineering roles for every ML role. From the self-learners I know, 2/3 fail to get a foot in the door and end up taking software engineering roles instead. You are ready to look for a job when you have two high-quality projects that are well-documented, have unique datasets, and are relevant to a [specific industry](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9), say banking or insurance. 
+Even though ML engineering roles are the most strategic entry point, they are still highly competitive. In general, there are ~50 software engineering roles for every ML role. From the self-learners I know, 2/3 fail to get a foot in the door and end up taking software engineering roles instead. You are ready to look for a job when you have two high-quality projects that are well-documented, have unique datasets, and are relevant to a [specific industry](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9), say banking or insurance. 
 
 Project Type | Base score | 
 -------------| -----------|
