@@ -5,7 +5,7 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 
 Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README.md)
 
-**Plug:** I write about learning Machine learning online and independent research 👉 [Enjoy!](https://www.emilwallner.com/)
+**UPDATED VERSION:** 👉 Check out my 60-page guide, [No ML Degree](https://twitter.com/EmilWallner/status/1528961488206979072), on how to land a machine learning job without a degree.
 
 ## Getting started [2 months]
 
