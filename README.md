@@ -3,8 +3,6 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 
 ---
 
-Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README.md)
-
 **UPDATED VERSION:** 👉 Check out my 60-page guide, [No ML Degree](https://twitter.com/EmilWallner/status/1528961488206979072), on how to land a machine learning job without a degree.
 
 ## Getting started [2 months]
@@ -176,3 +174,7 @@ Gugger.
 - YC Threads: [One](https://news.ycombinator.com/item?id=20765553) and [Two](https://news.ycombinator.com/item?id=18421422)
 
 If you have suggestions/questions create an issue or [ping me on Twitter.](https://twitter.com/EmilWallner)
+
+**UPDATED VERSION:** 👉 Check out my 60-page guide, [No ML Degree](https://twitter.com/EmilWallner/status/1528961488206979072), on how to land a machine learning job without a degree.
+
+Language versions: [Korean](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README_kr.md) | [English](https://github.com/emilwallner/How-to-learn-Deep-Learning/blob/master/README.md)
