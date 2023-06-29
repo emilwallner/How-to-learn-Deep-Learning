@@ -3,7 +3,7 @@ A practical, top-down approach, starting with high-level frameworks with a focus
 
 ---
 
-**UPDATED VERSION:** 👉 Check out my 60-page guide, [No ML Degree](https://twitter.com/EmilWallner/status/1528961488206979072), on how to land a machine learning job without a degree.
+**UPDATED VERSION:** 👉 Check out my 60-page guide, [No ML Degree]([https://twitter.com/EmilWallner/status/1528961488206979072](https://www.emilwallner.com/p/no-ml-degree)), on how to land a machine learning job without a degree.
 
 ## Getting started [2 months]
 
